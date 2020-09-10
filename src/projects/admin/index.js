@@ -1,8 +1,15 @@
+/*
+ * @Description: 
+ * @Author: chenju
+ * @Date: 2020-09-10 15:42:12
+ * @LastEditors: chenju
+ * @LastEditTime: 2020-09-10 15:58:52
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from '@/serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
